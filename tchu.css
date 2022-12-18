@@ -1,0 +1,251 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+  
+  .header {
+    background: white;
+    width: 100%;
+  }
+  
+  .header h1 {
+    font-size: 50px;
+  }
+  
+  .thanhchon {
+    overflow: hidden;
+    background-color: #f63;
+    width:  100%;
+    height: 50px;
+  }
+  
+  .thanhchon1 a
+{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.thanhchon2 a 
+{
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+.topnav a:hover 
+{
+    background-color: #ddd;
+    color: black;
+}
+  
+.leftcolumn
+{   
+    float: left;
+    width: 65%;
+}
+  
+h2
+{
+    text-align: center;
+}
+
+.rightcolumn 
+{
+    float: left;
+    width: 35%;
+    background-color: #f1f1f1;
+    padding-left: 20px;
+}
+  
+.card1 
+{
+    background-image: url("anh/background.png");
+    padding: 40px;
+    margin-top: 10px;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.card
+{
+    background-color: #FFFAB3;
+    width: 100%;
+    height: 430px;
+    padding: 90px;
+    margin-top: 10px;
+     Overflow-y: scroll;
+    display: block; 
+}
+
+.footer 
+{
+    display: inline-block;
+    padding-top: 10px;
+    height: auto;
+    width: 100%;
+    margin-top: 10px;
+    background-color: #aaaaa4;
+}
+
+.p1
+{
+    font-family:Times New Roman, Tahoma, sans-serif;
+    font-size: 40px;
+    color: navy;
+    text-align: center;
+}
+   
+h5
+{
+    margin-left: -60px;
+}
+  
+.cha
+{
+    background-color: #EEE9BF;
+    padding: 20px 50px 20px 100px;
+    margin-top: 10px;
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.cha1
+{
+    background-color: #FFFAB3;
+    padding: 20px 50px 20px 100px;
+    margin-top: 10px;
+    display: block;
+    height: auto;
+    width: 100%;
+}
+h1
+{
+    text-align: center;
+}
+
+.con
+{
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 35px ;
+    margin-top: 10px;
+    width: 350px;
+    height: auto;
+}
+
+.con img
+{
+    width: 350px;
+    height: 250px;  
+}
+
+.con.text 
+{
+    display: block;
+    position: absolute;
+    width: 350px;
+    height: auto;
+}
+
+.con1 
+{
+            
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 10px;
+    padding-top: 20px;
+    text-align: center;
+    height: auto;
+}
+
+.con1 a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.con1 p
+{
+    margin-top: 20px;
+}
+  
+.leftcolumn .cha2 
+{
+    background-color: #FFFFCC;
+    padding: 20px 50px 20px 100px;
+    margin-top: 10px;
+    display: block;
+    height: auto;   
+}
+
+.leftcolumn .cha2 h1
+{
+    text-align: center;
+}
+
+.rightcolumn .cha2 h1
+{
+    text-align: center;
+}
+          
+.rightcolumn .cha2
+{
+    background-color: #FFFFCC;
+    padding: 20px 50px 20px 50px;
+    margin-top: 10px;
+    display: block;
+    height: 470px;
+}
+
+.con2
+{
+    display: inline-block;
+    margin-right: 55px;
+    margin-top: 20px;
+    width: 350px;
+    height: 354.1px;
+}
+
+.con2 img
+{
+    width: 350px;
+    height: 200px;
+}
+
+.con2.text 
+{
+    display: block;
+    position: absolute;
+    width: 350px;
+    height: auto;
+}
+
+.con3 
+{   
+    display: inline-block;
+    margin-left: 55px;
+    margin-top: 10px;
+    padding-top: 20px;
+    text-align: center;
+    height: auto;
+}
+
+.con4.text 
+{
+    display: block;
+    position: absolute;
+    width: 350px;
+    height: auto;
+}
