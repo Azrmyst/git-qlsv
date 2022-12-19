@@ -122,7 +122,7 @@
         </center>
     </div>
 
-    <footer class="footer">
+<footer class="footer">
     <div class="con3"> 
         <h4>Hạ Long</h4>
         <p>Vũ Thị Hoài</p>

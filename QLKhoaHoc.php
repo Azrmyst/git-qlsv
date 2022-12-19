@@ -128,27 +128,31 @@
         </center>
     </div>
 
-    <footer>
-        <div class="con3"> 
-                <h4>ĐẠI KA HẠ LONG</h4>
-                <p>Vũ Thị Hoài</p>
-            </div>
-            <div class="con3"> 
-                <h4>NGƯỜI CON THÁI BÌNH</h4>
-                <p>TRẦN MINH CÔNG</p>
-            </div>
-            <div class="con3"> 
-                <h4>NGƯỜI CON NAM ĐỊNH </h4>
-                <p>PHẠM THÙY LINH</p>
-            </div>
-            <div class="con3"> 
-                <h4>LƯƠN TRẠCH SƠN LA</h4>
-                <p>NGUYỄN NINH TÙNG DƯƠNG</p>
-            </div>
-            <div class="con3"> 
-                <h4>CỰC PHẨM HÀ NỘI</h4>
-                <p>NGUYỄN PHƯƠNG THẢO</p>
-            </div>
-    </footer>
+    <footer class="footer">
+    <div class="con3"> 
+        <h4>Hạ Long</h4>
+        <p>Vũ Thị Hoài</p>
+    </div>
+    <div class="con3"> 
+        <h4>THÁI BÌNH</h4>
+        <p>TRẦN MINH CÔNG</p>
+    </div>
+    <div class="con3"> 
+        <h4>NAM ĐỊNH </h4>
+        <p>PHẠM THÙY LINH</p>
+    </div>
+    <div class="con3"> 
+        <h4>SƠN LA</h4>
+        <p>NGUYỄN NINH TÙNG DƯƠNG</p>
+    </div>
+    <div class="con3"> 
+        <h4>HÀ NỘI</h4>
+        <p>NGUYỄN PHƯƠNG THẢO</p>
+    </div>
+    <div class="con3"> 
+        <h4>HÀ NỘI</h4>
+        <p>Đỗ Thành Quang</p>
+    </div>
+</footer>
 </body>
 </html>
