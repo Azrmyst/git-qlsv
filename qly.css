@@ -1,0 +1,203 @@
+footer
+{
+    display: inline-block;
+    padding-top: 10px;
+    height: auto;
+    width: 100%;
+    background-color: #FFCC99;
+    padding-left: 30px;
+}
+
+.con3 
+{
+    display: inline-block;
+    margin-left: 45px;
+    margin-top: 10px;
+    padding-top: 20px;
+    text-align: center;
+    height: auto;
+}
+
+.thanhchon
+{
+    overflow: hidden;
+    background-color: #f63;
+    width:  100%;
+    height: 50px;
+}
+
+.thanhchon1 a
+{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.thanhchon2 a 
+{
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}      
+
+.left
+{
+    float: left;
+    width: 20%;
+}
+
+.right
+{
+    float: right;
+    width: 80%;
+}
+
+.form
+{
+    position: relative;
+    width: 100%;
+    max-width: 250px;
+    padding: 80px 40px 40px;
+    background: #EEE8AA;
+    height: 560px;
+}
+           
+.form::before
+{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    height: 100%;
+    border-radius: 12px;
+    pointer-events: none;
+    margin-left: 20px;
+}
+
+.form ul 
+{
+    list-style-type: none;
+    padding: 0;
+    width: 200px;
+    margin-top:-15px;
+    margin-left: -15px;
+}
+            
+li a 
+{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+            
+li a.active 
+{
+    background-color: #4CAF50;
+    color: white;
+}
+            
+li a:hover:not(.active) 
+{
+    background-color: #EEEEEE;
+    color: black;
+}
+
+table th
+{   
+    border: 1px solid  black;
+}
+table td
+{
+    border: 1px solid  black;
+    color:black;
+
+}
+
+table a
+{
+    text-decoration: none;
+    color: white;
+}
+
+form
+{
+    margin-right: 60px;
+}
+
+table
+{
+    width: 100%; 
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid  black;
+    text-align: center;
+    font-style: normal;
+    background-color:rgba(0,1,1,0.3);
+}
+
+.body1
+{
+    background-color: #FFFFCC;
+} 
+
+tr:hover
+{
+    background-color: 	#FAEBD7;
+    cursor: pointer;
+}
+
+.tieude
+{
+    background-color: lightgray;
+    font-size: 20px;
+}
+
+h1
+{
+    text-align: center;
+    color:#FF7F50;
+}
+
+.vt
+{
+    float: right;
+}
+
+.list 
+{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+}                                          
+                    
+.list-tracuu
+{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 170px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+            
+.list-tracuu a 
+{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+            
+.list-tracuu a:hover {background-color: #f1f1f1;}
+
+.tracuu:hover .list-tracuu {display: block;}
